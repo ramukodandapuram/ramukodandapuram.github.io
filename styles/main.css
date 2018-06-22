@@ -1,7 +1,7 @@
 
 #template {
     width: 100%;
-    margin: 10% auto;
+    /*margin: 10% auto;*/
 }
 
 #logo{
@@ -11,7 +11,7 @@
 
 #data {
     width: 70%;
-    float: left;
+    /*float: left;*/
     margin-top: 5%;
 }
 
